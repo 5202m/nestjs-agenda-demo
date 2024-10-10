@@ -22,6 +22,7 @@
     "@nestjs/common": "^10.3.2",
     "@nestjs/core": "^10.3.2",
     "@nestjs/platform-express": "^10.3.2",
+    "@types/agenda": "^4.1.0",
     "agenda": "^5.0.0",
     "moment": "^2.30.1",
     "nestjs-agenda": "^2.0.0",
